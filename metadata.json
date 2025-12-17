@@ -1,0 +1,5 @@
+{
+  "name": "GoSocket Smart Analyzer",
+  "description": "An intelligent assistant for O2C analysts to interpret, explain, and resolve electronic invoicing rejections from GoSocket using Generative AI.",
+  "requestFramePermissions": []
+}
